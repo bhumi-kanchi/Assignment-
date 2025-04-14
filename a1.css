@@ -1,0 +1,35 @@
+img{
+    position: relative;
+}
+#logo{
+    width:80x;
+    height: 50px;
+}
+.nav-link{
+    color:rgb(7, 0, 2);
+    margin-right: 30px;
+    font-weight: 200px;
+}
+.nav-link:hover{
+    color:rgb(4, 160, 56)
+    
+}
+.text{
+    color:white;
+}
+.i{
+    padding-top: 20px;
+}
+.a{
+    padding-top: 10px;
+    text-align: center;
+}
+.div{
+    font-size: 30px;
+}
+.d{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
